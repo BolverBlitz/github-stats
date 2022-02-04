@@ -104,7 +104,7 @@
     
     <div>
     <span class="progress">
-    <span style="background-color: #f1e05a;width: 44.944%;" class="progress-item"></span><span style="background-color: #563d7c;width: 17.704%;" class="progress-item"></span><span style="background-color: #c6538c;width: 14.443%;" class="progress-item"></span><span style="background-color: #e34c26;width: 10.959%;" class="progress-item"></span><span style="background-color: #00ADD8;width: 5.169%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 3.621%;" class="progress-item"></span><span style="background-color: #3572A5;width: 1.523%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 1.218%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.338%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.081%;" class="progress-item"></span>
+    <span style="background-color: #f1e05a;width: 44.966%;" class="progress-item"></span><span style="background-color: #563d7c;width: 17.697%;" class="progress-item"></span><span style="background-color: #c6538c;width: 14.437%;" class="progress-item"></span><span style="background-color: #e34c26;width: 10.955%;" class="progress-item"></span><span style="background-color: #00ADD8;width: 5.167%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 3.619%;" class="progress-item"></span><span style="background-color: #3572A5;width: 1.523%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 1.217%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.338%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.081%;" class="progress-item"></span>
     </span>
     </div>
     
@@ -116,7 +116,7 @@
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">JavaScript</span>
-<span class="percent">44.94%</span>
+<span class="percent">44.97%</span>
 </li>
 
 
